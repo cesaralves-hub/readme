@@ -1,4 +1,6 @@
-🌎 Brasil
+  🌎 Brasil
+
+  
     Estudante de Analise e Desenvolvimento de sistemas
     Apaixonado por criacao de conteudos, dedico o meu tempo
     compartilhando a minha rotina de estudos via Linkedin,Tik tok, e Instagram
