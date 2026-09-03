@@ -1,12 +1,6 @@
   🌎 Brasil
 
-  
-    Estudante de Analise e Desenvolvimento de sistemas
-    Apaixonado por criacao de conteudos, dedico o meu tempo
-    compartilhando a minha rotina de estudos via Linkedin,Tik tok, e Instagram
-    Servi durante 6 anos A Forca Aerea Brasileira, 
-    aprendendo a ter a maxima disciplina e o irrestrito 
-    cumprimento do dever
+Estudante de Análise e Desenvolvimento de Sistemas e criador de conteúdo digital. Dedico meu tempo compartilhando minha rotina de estudos, aprendizados e os bastidores do mundo da tecnologia no LinkedIn, TikTok e Instagram. Servi por 6 anos na Força Aérea Brasileira, onde solidifiquei valores como máxima disciplina, resiliência e foco em resultados — competências fundamentais que hoje direciono para o desenvolvimento de software.
 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cesardaniel.sv86@gmail.com)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cesar-alves-49093b423?/)
