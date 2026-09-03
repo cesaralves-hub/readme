@@ -8,4 +8,4 @@
     aprendendo a ter a maxima disciplina e o irrestrito 
     cumprimento do dever
     
-![JavaScript](https://shields.io)
+![JavaScript](https://shields.io) ![TypeScript](https://shields.io) ![React](https://shields.io) 
